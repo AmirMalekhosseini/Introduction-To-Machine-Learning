@@ -1,4 +1,4 @@
-HW1: Supervised-Learning
-Hw2: Unsupervised-Learning
-HW3: Neural-Networks
-HW4: Computer-Vision
+HW1: Supervised-Learning<br/>
+Hw2: Unsupervised-Learning<br/>
+HW3: Neural-Networks<br/>
+HW4: Computer-Vision<br/>
